@@ -1,0 +1,8 @@
+opencv-python
+numpy
+fastapi
+starlette
+pathlib
+uuid
+uvicorn
+hashlib
